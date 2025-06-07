@@ -31,8 +31,10 @@ Through **data cleaning**, **transformation**, and **visualization**, the projec
   - CGST, SGST, IGST, Round_Off
 
 ---
-
+## Sales overview dashboard
 ![Sales Dashboard 1](https://drive.google.com/uc?export=view&id=1RuYLJzFtR9WCEoTRuNa80dAgoC8A_Cmn)
+
+## 🧾 Customer insights dashboard
 ![Sales Dashboard 2](https://drive.google.com/uc?export=view&id=1ZLpM4hY-5cTaTOncInzZEfm96s2qTdid)
 
 
