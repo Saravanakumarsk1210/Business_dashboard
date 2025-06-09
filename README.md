@@ -5,7 +5,7 @@
 > **Dataset Source**: Real-time sales and purchase data (2023–2024) from a metals manufacturing company  
 > **Tool Used**: Power BI
 
-**Please note that the dataset used to develop this dashboard has not been included 
+**Please note that the dataset used to develop this dashboard has not been included  
 here due to its proprietary nature and confidentiality agreements with the company.**
 
 ---
